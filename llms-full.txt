@@ -4,20 +4,20 @@
 
 --------------------------------------------------------------------------------
 title: "Home"
-url: https://naailbeverages.github.io/index.md
+url: https://naailbeverages.com/index.md
 --------------------------------------------------------------------------------
 <no value>
 
 --------------------------------------------------------------------------------
 title: "Talk to us about <span>distribution.</span>"
-url: https://naailbeverages.github.io/contact/index.md
+url: https://naailbeverages.com/contact/index.md
 description: Reach the Naail Food & Beverages head office in Sheikhupura for distributor enquiries, bulk orders or plant visits.
 --------------------------------------------------------------------------------
 Reach the Naail Food & Beverages head office in Sheikhupura for distributor enquiries, bulk orders or plant visits.
 
 --------------------------------------------------------------------------------
 title: "WE ARE NAAIL FOOD & BEVERAGES. BOTTLING PUNJAB'S HARVEST SINCE 2011."
-url: https://naailbeverages.github.io/about/index.md
+url: https://naailbeverages.com/about/index.md
 description: A Pakistan-based food and beverage manufacturer in Sheikhupura, Punjab, producing juices, carbonated drinks, drinking water and packaged snacks for distributors across all four provinces.
 --------------------------------------------------------------------------------
 
@@ -71,14 +71,14 @@ fictional placeholder content.*
 
 --------------------------------------------------------------------------------
 title: "Naail News"
-url: https://naailbeverages.github.io/blog/index.md
+url: https://naailbeverages.com/blog/index.md
 description: Plant updates, sourcing news and certification announcements from Naail Food & Beverages, Sheikhupura.
 --------------------------------------------------------------------------------
 Plant updates, sourcing news and certification announcements from Naail Food & Beverages, Sheikhupura.
 
 --------------------------------------------------------------------------------
 title: "Third water line commissioned at Sheikhupura"
-url: https://naailbeverages.github.io/blog/new-water-line-commissioned/index.md
+url: https://naailbeverages.com/blog/new-water-line-commissioned/index.md
 date: "2026-07-14"
 description: A third bottling line lifts drinking-water capacity to 60,000 bottles a day ahead of the summer peak.
 --------------------------------------------------------------------------------
@@ -109,7 +109,7 @@ Distributors with questions about revised allocations should contact their regio
 
 --------------------------------------------------------------------------------
 title: "Mango intake for 2026 closes 12% above last season"
-url: https://naailbeverages.github.io/blog/mango-season-2026/index.md
+url: https://naailbeverages.com/blog/mango-season-2026/index.md
 date: "2026-06-02"
 description: Contracted pulp from Multan and Rahim Yar Khan comes in ahead of plan despite a late start.
 --------------------------------------------------------------------------------
@@ -138,7 +138,7 @@ into the first quarter of 2027.
 
 --------------------------------------------------------------------------------
 title: "ISO 22000 recertified through 2028"
-url: https://naailbeverages.github.io/blog/iso-22000-recertification/index.md
+url: https://naailbeverages.com/blog/iso-22000-recertification/index.md
 date: "2026-04-21"
 description: The Sheikhupura plant clears its three-year food safety recertification audit with no major findings.
 --------------------------------------------------------------------------------
@@ -174,14 +174,14 @@ Both were closed out within thirty days of the audit.
 
 --------------------------------------------------------------------------------
 title: "We bottle <span>juice, water and fizz</span> for distributors across <span>Pakistan</span>"
-url: https://naailbeverages.github.io/products/index.md
+url: https://naailbeverages.com/products/index.md
 description: Juices, carbonated drinks, drinking water and packaged snacks from Naail Food & Beverages, Sheikhupura.
 --------------------------------------------------------------------------------
 Juices, carbonated drinks, drinking water and packaged snacks from Naail Food & Beverages, Sheikhupura.
 
 --------------------------------------------------------------------------------
 title: "NAAIL MANGO NECTAR"
-url: https://naailbeverages.github.io/products/naail-mango-nectar/index.md
+url: https://naailbeverages.com/products/naail-mango-nectar/index.md
 date: "2026-03-10"
 --------------------------------------------------------------------------------
 
@@ -222,7 +222,7 @@ Year-round. Peak production runs June through September, aligned with the mango 
 
 --------------------------------------------------------------------------------
 title: "NAAIL CITRUS PUNCH"
-url: https://naailbeverages.github.io/products/naail-citrus-punch/index.md
+url: https://naailbeverages.com/products/naail-citrus-punch/index.md
 date: "2026-03-08"
 --------------------------------------------------------------------------------
 
@@ -262,7 +262,7 @@ Year-round, with peak citrus intake between December and March.
 
 --------------------------------------------------------------------------------
 title: "NAAIL FIZZ"
-url: https://naailbeverages.github.io/products/naail-fizz/index.md
+url: https://naailbeverages.com/products/naail-fizz/index.md
 date: "2026-03-05"
 --------------------------------------------------------------------------------
 
@@ -309,7 +309,7 @@ Year-round. Volumes rise sharply through Ramzan and the summer months.
 
 --------------------------------------------------------------------------------
 title: "NAAIL DRINKING WATER"
-url: https://naailbeverages.github.io/products/naail-drinking-water/index.md
+url: https://naailbeverages.com/products/naail-drinking-water/index.md
 date: "2026-03-02"
 --------------------------------------------------------------------------------
 
@@ -345,7 +345,7 @@ Gujranwala. Dispensers are supplied on refundable deposit.
 
 --------------------------------------------------------------------------------
 title: "NAAIL SNACKS"
-url: https://naailbeverages.github.io/products/naail-snacks/index.md
+url: https://naailbeverages.com/products/naail-snacks/index.md
 date: "2026-02-26"
 --------------------------------------------------------------------------------
 
@@ -388,13 +388,13 @@ dried mango powder (amchur), asafoetida.
 
 --------------------------------------------------------------------------------
 title: "Pages"
-url: https://naailbeverages.github.io/pages/index.md
+url: https://naailbeverages.com/pages/index.md
 --------------------------------------------------------------------------------
 <no value>
 
 --------------------------------------------------------------------------------
 title: "Privacy Policy"
-url: https://naailbeverages.github.io/privacy-policy/index.md
+url: https://naailbeverages.com/privacy-policy/index.md
 description: How Naail Food & Beverages handles information submitted through this website.
 --------------------------------------------------------------------------------
 
@@ -434,18 +434,18 @@ on this page.
 
 --------------------------------------------------------------------------------
 title: "Sections"
-url: https://naailbeverages.github.io/sections/index.md
+url: https://naailbeverages.com/sections/index.md
 --------------------------------------------------------------------------------
 <no value>
 
 --------------------------------------------------------------------------------
 title: "Categories"
-url: https://naailbeverages.github.io/categories/index.md
+url: https://naailbeverages.com/categories/index.md
 --------------------------------------------------------------------------------
 <no value>
 
 --------------------------------------------------------------------------------
 title: "Tags"
-url: https://naailbeverages.github.io/tags/index.md
+url: https://naailbeverages.com/tags/index.md
 --------------------------------------------------------------------------------
 <no value>
